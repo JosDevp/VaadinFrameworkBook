@@ -1,0 +1,1 @@
+$wnd.com_mycompany_project_AppWidgetSet.runAsyncCallback2('ubb(1512,1,GEd);_.uc=function o5b(){LTb((!ETb&&(ETb=new QTb),ETb),this.a.d)};lyd(Wh)(2);\n//# sourceURL=com.mycompany.project.AppWidgetSet-2.js\n')

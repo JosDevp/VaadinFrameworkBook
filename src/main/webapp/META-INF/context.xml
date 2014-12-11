@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Project"  reloadable="true">
+
+<Resource  auth="Container"
+  driverClassName="com.mysql.jdbc.Driver"
+  maxActive="200"
+  maxIdle="30"
+  maxWait="10000"
+  name="jdbc/abookPool"
+  removeAbandoned="true"
+  type="javax.sql.DataSource"
+  url="jdbc:mysql://localhost:3306/addressbook"
+  username="abook"
+  password="abook"/>
+
+
+
+</Context>
